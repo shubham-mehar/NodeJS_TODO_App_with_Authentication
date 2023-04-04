@@ -1,6 +1,6 @@
 # NodeJS_TODO_App
 
-This is a simple TODO app built with Node.js and Express framework. It allows you to create, read, update and delete TODO items. The app is designed to run locally on your machine and requires Node.js and NPM installed.
+This is a simple TODO app built with Node.js and Express framework. It allows you to create, read, update and delete TODO items. The app also includes user authentication with registration, login and logout functionality, using JSON Web Tokens (JWT) for authentication.
 
 ## Technologies Used
 * Node.js
